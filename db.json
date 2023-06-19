@@ -1,0 +1,34 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "Clinton Biswas",
+      "program": "BSC",
+      "email": "ponti.clinton@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ponti Biswas",
+      "program": "BSC",
+      "email": "ponti.biswas@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Anik Biswas",
+      "program": "BSC",
+      "email": "anik@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Sourav Biswas",
+      "program": "BSC",
+      "email": "sourav@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Alex Biswas",
+      "program": "BSC",
+      "email": "alex@gmail.com"
+    }
+  ]
+}
